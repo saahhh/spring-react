@@ -1,0 +1,6 @@
+package com.kh.springchap1.service;
+
+@Service
+public class ProductService {
+	
+}

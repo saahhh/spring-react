@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8">
+		<title>login</title>
+	</head>
+	<body>
+		<h2>Login</h2>
+		<form action="Login" method="post">
+			<label>아이디 : </label>
+			<input type="text" /> <br/>
+			<label>비밀번호 : </label>
+			<input type="text" /> <br/>
+		</form>
+			<button tyep="submit">로그인</button>
+		<div>
+			<p>SNS로 로그인</p>
+			<a href="/oauth2/authorization/google">Login with Google</a>
+			<a href="/oauth2/authorization/naver">Login with Naver</a>
+			<a href="/oauth2/authorization/kakao">Login with Kakao</a>
+		</div>
+	</body>
+</html>

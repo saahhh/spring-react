@@ -1,0 +1,17 @@
+#port
+server.port=8080
+#db연결설정
+spring.datasource.url=jdbc:oracle:thin:@//localhost:1521/XE
+spring.datasource.username=khbbb
+spring.datasource.password=kh1234
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+
+#템플릿 설정
+spring.thymeleaf.prefix=classpath:/templates/
+spring.thymeleaf.suffix=.html
+spring.resources.static-locations=classpath:/static
+
+spring.jpa.show-sql=true
+
+#추가해줘야 db가 알아서 생김
+spring.jpa.hibernate.ddl-auto=update

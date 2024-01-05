@@ -1,0 +1,5 @@
+package com.kh.springchap1.respository;
+
+public interface UserRepository extends JpaRepository <User, Long> {
+	//추가적으로 필요한 메서드만 작성
+}

@@ -1,0 +1,5 @@
+package com.kh.springchap1.controller;
+
+public class HelloController {
+
+}
