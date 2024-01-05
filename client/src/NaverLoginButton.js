@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 
 export default function NaverLoginButton() {
-  const handelNaverLogin = async () => {
+  const handleNaverLogin = async () => {
     try {
       const response = await axios.get(
         "http://localhost:8080/login/oauth2/code/naver",
@@ -17,7 +17,7 @@ export default function NaverLoginButton() {
   };
   return (
     <div>
-      <button OnClick={handelNaverLogin}>Naver Login</button>
+      <button onClick={handleNaverLogin}>Naver Login</button>
     </div>
   );
 }
