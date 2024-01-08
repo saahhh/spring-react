@@ -7,13 +7,28 @@
 		INSERT INTO Members (MemberID, Username, Password, FullName, Email, RegistrationDate) 
 		VALUES (members_seq.NEXTVAL, #{username}, #{password}, #{fullName}, #{email}, sysdate)
 	</insert>
+	
+	<insert id="loginMember" parameterType="springchap4signup.model.Member">
+		INSERT INTO Member (Username, Password) VALUES (#{username}, #{password})
+	</insert>
+	
+	<select id="getAllMember" parameterType="springchap4signup.model.Member">
+		SELECT * FROM Members
+	</select>
+	
+	<select id="getMemberById" parameterType="Long" resultType="springchap4signup.model.Member">
+		SELECT * FROM Members WHERE MemberID = #{memberId}	
+	</select>
+	
 	<update id="updateMember" parameterType="springchap4signup.model.Member">
 		UPDATE Members
 		SET 
-		username = #{username},
-		password = #{password},
-		fullName = #{fullName},
-		email = #{email}
+		Username = #{username},
+		Password = #{password},
+		FullName = #{fullName},
+		Email = #{email}
+		WHERE
+		MemberID = #{memberId}
 	</update>
 </mapper>
 

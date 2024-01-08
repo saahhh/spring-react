@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="EUC-KR">
+		<title>Member List</title>
+	</head>
+	<body>
+		<h2>Member List</h2>
+		<table border="1">
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Full Name</th>
+					<th>Email</th>
+					<th>Update/Delete</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="m : ${members}">
+					<td th:text="${m.username}"></td>
+					<td th:text="${m.fullName}"></td>
+					<td th:text="${m.email}"></td>				
+					<td>
+						<a th:href="@{'/members/update/'} + ${m.memberId}">Update</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

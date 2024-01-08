@@ -13,7 +13,7 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
 			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
 			crossorigin="anonymous"></script>
-	<title>HomePage</title>
+	<title>웹사이트 회원가입 naverAPI</title>
 	</head>
 	<body class="bg-light">
 		<div class="container mt-5">
@@ -22,7 +22,9 @@
 					<h3>HomePage</h3>
 					<div class="card-body">
 						<a href="/members/register"><button class="btn btn-primary">회원가입</button></a>
+						<a th:href="@{/oauth2/authorization/naver}"><button class="btn btn-primary">네이버로 회원가입</button></a>
 						<a href="/members/login"><button class="btn btn-primary">로그인</button></a>
+						<a href="/members/membersInfo"><button class="btn btn-primary">회원리스트</button></a>
 					</div>
 				</div>
 			</div>

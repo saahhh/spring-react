@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="EUC-KR">
+		<title>Update Member</title>
+	</head>
+	<body>
+		<h2>정보 수정</h2>
+		<form th:action="@{'/members/update/'} + ${m.memberId}" th:object="{member}" method="post">
+			<label for="username"></label>
+			<input type="text" id="username" th:field="*{username}"/>
+			
+			<label for="fullName"></label>
+			<input type="text" id="fullName" th:field="*{fullName}"/>
+			
+			<label for="password"></label>
+			<input type="password" id="password" th:field="*{password}"/>
+			
+			<button type="submit">수정완료</button>
+		</form>
+	
+	</body>
+</html>
