@@ -1,0 +1,11 @@
+<!-- MembersMapper.xml -->
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="springchap4signup.mapper.MembersMapper">
+	<!-- 회원등록 -->
+	<insert id="insertMember" parameterType="springchap4signup.model.Member">
+		INSERT INTO Members (MemberID, Username, Password, FullName, Email, RegistrationDate) 
+		VALUES (members_seq.NEXTVAL, #{username}, #{password}, #{fullName}, #{email}, sysdate)
+	</insert>
+</mapper>
+
