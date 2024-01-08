@@ -14,4 +14,8 @@ public class MemberService {
 	public void signUpMember(Member member) {
 		membersMapper.insertMember(member);
 	}
+	
+	public void updateMember(Member member) {
+		membersMapper.updateMember(member);
+	}
 }

@@ -25,6 +25,15 @@ public class MemberController {
 	@PostMapping("/register")
 	public String registerMember(Member member) {
 		memberService.signUpMember(member);
-		return "redirect:/members/register";
+		return "redirect:/members/index";
+		//return "redirect:../../"; //메인으로 돌아가기
 	}
+	
+	@PostMapping("/update")
+	public String updateMember(Member member) {
+		memberService.updateMember(member);
+		return "redirect:/members/index";
+	}
+	
+
 }

@@ -7,5 +7,14 @@
 		INSERT INTO Members (MemberID, Username, Password, FullName, Email, RegistrationDate) 
 		VALUES (members_seq.NEXTVAL, #{username}, #{password}, #{fullName}, #{email}, sysdate)
 	</insert>
+	<update id="updateMember" parameterType="springchap4signup.model.Member">
+		UPDATE Members
+		SET 
+		username = #{username},
+		password = #{password},
+		fullName = #{fullName},
+		email = #{email}
+	</update>
 </mapper>
+
 

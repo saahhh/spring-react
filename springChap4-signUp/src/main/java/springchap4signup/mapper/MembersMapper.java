@@ -9,4 +9,5 @@ public interface MembersMapper {
 	
 	void insertMember(Member member);
 	
+	void updateMember(Member member);
 }
