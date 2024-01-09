@@ -4,7 +4,7 @@
 <mapper namespace="springchap4signup.mapper.MembersMapper">
 	<!-- 회원등록 -->
 	<insert id="insertMember" parameterType="springchap4signup.model.Member">
-		INSERT INTO Members (MemberID, Username, Password, FullName, Email, RegistrationDate) 
+		INSERT INTO Members (memberid, Username, Password, FullName, Email, RegistrationDate) 
 		VALUES (members_seq.NEXTVAL, #{username}, #{password}, #{fullName}, #{email}, sysdate)
 	</insert>
 	
