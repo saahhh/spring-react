@@ -14,7 +14,6 @@ INDEX VERSION 1.134+C:\Users\user1\spring-react-security\.metadata\.plugins\org.
 2993162120.index
 2422199252.index
 4142967540.index
-697381674.index
 1865797976.index
 906575245.index
 56871322.index

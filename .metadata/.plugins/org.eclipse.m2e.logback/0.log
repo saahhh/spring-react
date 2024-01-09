@@ -2298,3 +2298,176 @@
 2024-01-09 12:41:10,675 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-01-09 12:41:10,678 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-01-09 12:41:10,680 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 12:45:50,526 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 12:45:50,529 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 12:45:50,531 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:04:14,666 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:04:14,671 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:04:14,674 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:12:57,603 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:12:57,606 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:12:57,608 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:13:43,172 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:13:43,177 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:13:43,180 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:14:41,383 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:14:41,386 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:14:41,388 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:22:04,101 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:22:04,105 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:22:04,107 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:25:18,523 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:25:18,526 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:25:18,528 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:26:29,977 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:26:29,980 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:26:29,982 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:27:29,426 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:27:29,429 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:27:29,431 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:27:51,747 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:27:51,750 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:27:51,752 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:28:13,159 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:28:13,161 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:28:13,163 [Worker-124: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:29:02,644 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:29:02,648 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:29:02,650 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:30:53,273 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:30:53,276 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:30:53,279 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:33:33,909 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:33:33,912 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:33:33,914 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:35:47,797 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:35:47,800 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:35:47,802 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:36:27,067 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:36:27,070 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:36:27,072 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:38:08,765 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:38:08,770 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:38:08,773 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:39:45,759 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:39:45,763 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:39:45,765 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:39:59,453 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:39:59,457 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:39:59,459 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:48:55,922 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:48:55,925 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:48:55,928 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:49:04,288 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:49:04,292 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:49:04,294 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:50:08,699 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:50:08,704 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:50:08,706 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:53:51,816 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:53:51,819 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:53:51,821 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:55:18,389 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:55:18,392 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:55:18,394 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 14:56:35,802 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 14:56:35,805 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 14:56:35,807 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:01:07,852 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:01:07,857 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:01:07,859 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:08:24,265 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:08:24,270 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:08:24,272 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:08:43,717 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:08:43,720 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:08:43,722 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:09:00,099 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:09:00,102 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:09:00,104 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:10:12,801 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:10:12,804 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:10:12,806 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:10:19,429 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:10:19,432 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:10:19,434 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:10:40,948 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:10:40,951 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:10:40,953 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:11:25,250 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:11:25,253 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:11:25,255 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:11:32,831 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:11:32,834 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:11:32,836 [Worker-155: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:12:00,289 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:12:00,292 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:12:00,294 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:20:31,914 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:20:31,918 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:20:31,920 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:20:46,739 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:20:46,744 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:20:46,746 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:20:51,568 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:20:51,571 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:20:51,587 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:21:14,946 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:21:14,950 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:21:14,952 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:23:10,433 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:23:10,436 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:23:10,438 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:23:33,066 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:23:33,069 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:23:33,071 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:23:56,579 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:23:56,581 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:23:56,583 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:24:49,405 [Worker-158: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springchap5API:springChap5API_Test:0.0.1-SNAPSHOT @ C:\Users\user1\spring-react-security\springChap5API_Test\pom.xml.
+2024-01-09 15:24:49,934 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:24:49,935 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:24:49,937 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:24:58,221 [Worker-153: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springchap5API:springChap5API_Test:0.0.1-SNAPSHOT @ C:\Users\user1\spring-react-security\springChap5API_Test\pom.xml.
+2024-01-09 15:24:58,508 [Worker-153: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618.pom
+2024-01-09 15:24:58,539 [Worker-153: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618.pom
+2024-01-09 15:24:58,715 [Worker-153: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618.jar
+2024-01-09 15:24:58,741 [Worker-153: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618.jar
+2024-01-09 15:24:58,966 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:24:58,967 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:24:58,969 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:24:59,935 [Worker-154: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618-sources.jar
+2024-01-09 15:24:59,962 [Worker-154: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20230618/json-20230618-sources.jar
+2024-01-09 15:24:59,967 [Worker-154: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.json:json:20230618
+2024-01-09 15:25:30,702 [Worker-158: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springchap5API:springChap5API_Test:0.0.1-SNAPSHOT @ C:\Users\user1\spring-react-security\springChap5API_Test\pom.xml.
+2024-01-09 15:25:31,214 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:25:31,223 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:25:31,230 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:26:04,335 [Worker-154: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springchap5API:springChap5API_Test:0.0.1-SNAPSHOT @ C:\Users\user1\spring-react-security\springChap5API_Test\pom.xml.
+2024-01-09 15:26:04,789 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:26:04,790 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-09 15:26:04,792 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:27:46,936 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:27:46,944 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:27:46,946 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:29:15,152 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:29:15,155 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:29:15,157 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:29:21,604 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:29:21,606 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:29:21,608 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:29:40,488 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:29:40,490 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:29:40,492 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:30:41,121 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:30:41,123 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:30:41,125 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:30:49,503 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:30:49,505 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:30:49,507 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:38:55,353 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:38:55,357 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:38:55,360 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
+2024-01-09 15:39:02,341 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-09 15:39:02,346 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-01-09 15:39:02,348 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user1\spring-react-security\springChap5API_Test\src\test\resources
