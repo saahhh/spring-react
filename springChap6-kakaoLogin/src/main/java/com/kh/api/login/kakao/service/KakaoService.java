@@ -34,7 +34,7 @@ public class KakaoService {
 	private final static String KAKAO_API_URI="https://kapi.kakao.com";
 	
 	public String getKakaoLogin() {
-		return KAKAO_AUTH_URI + "/oauth/authorize?client_id=" + KAKAO_CLIENT_ID + "&redict_uri=" + KAKAO_REDIRECT_URL + "&response_type=code";
+		return KAKAO_AUTH_URI + "/oauth/authorize?client_id=" + KAKAO_CLIENT_ID + "&redirect_uri=" + KAKAO_REDIRECT_URL + "&response_type=code";
 	}
 	
 	public KakaoDTO getKakaoInfo(String code) throws Exception {
@@ -67,11 +67,11 @@ public class KakaoService {
 			*/
 			MultiValueMap<String, String> params = new LinkedMultiValueMap<>();
 			
-			params.add("grant_type", "authoriztion_code");
+			params.add("grant_type", "authorization_code");
 			params.add("client_id", KAKAO_CLIENT_ID);
 			params.add("client_secret", KAKAO_CLIENT_SECRET);
 			params.add("code", code);
-			params.add("redirect_url", KAKAO_REDIRECT_URL);
+			params.add("redirect_uri", KAKAO_REDIRECT_URL);
 			
 			//RestTemplate : Spring에서 제공하는 것
 			//RestTemplate 을 사용해서 HTTP에 요청을 보내고 요청에 대한 응답을 받아오는 템플릿
@@ -92,11 +92,10 @@ public class KakaoService {
 			JSONParser jsonParser = new JSONParser();
 			JSONObject jsonObj = (JSONObject) jsonParser.parse(response.getBody());
 			
-			accessToken = (String) jsonObj.get("access_token");
-			refreshToken = (String) jsonObj.get("refresh_token");
+			accessToken = (String) jsonObj.get("accessToken");
+			refreshToken = (String) jsonObj.get("refreshToken");
 			
 		} catch (Exception err) {
-			err.printStackTrace();
 			throw new Exception("api를 불러오지 못했습니다.");
 		}
 		return getUserInfoWithToken(accessToken);
@@ -106,7 +105,7 @@ public class KakaoService {
 		//토큰용 HTTPHeader 생성
 		HttpHeaders headers = new HttpHeaders();
 		// Bearer : HTTP요청에서 인증할 때 특정 형태로 변환해서 토큰 타입을 나타내는 것 (특정 현재 토큰 타입)
-		headers.add("Authoriztion", "Bearer" + accessToken);
+		headers.add("Authorization", "Bearer" + accessToken);
 		headers.add("Content-type", "application/x-www-form-urlencoded;charset=UTF-8");
 		
 		//내용을 담아놓을 템플릿 생성
@@ -137,4 +136,5 @@ public class KakaoService {
 				.email(email)
 				.nickname(nickname).build();
 	}
+	
 }
