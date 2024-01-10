@@ -1,8 +1,0 @@
-package com.kh.springchap1.model;
-
-import jakarta.persistence.Entity;
-
-@Entitt
-public class User {
-	
-}

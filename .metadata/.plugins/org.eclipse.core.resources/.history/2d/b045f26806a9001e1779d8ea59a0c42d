@@ -1,4 +1,0 @@
-#port
-server.port=8080
-#db연결설정
-spring.datasource.url=jdbc.oracle:thin:@//localhost:1521

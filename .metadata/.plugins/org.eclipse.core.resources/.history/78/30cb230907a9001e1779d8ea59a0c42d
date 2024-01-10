@@ -1,9 +1,0 @@
-package com.kh.springchap1.controller;
-
-
-//api로 전달해서 호출
-@RestController
-@RequestMapping("/api")
-public class HelloController {
-
-}

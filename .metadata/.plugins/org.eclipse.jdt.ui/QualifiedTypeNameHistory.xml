@@ -22,4 +22,18 @@
     <fullyQualifiedTypeName name="org.springframework.security.core.annotation.AuthenticationPrincipal"/>
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpHeaders"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.net.URLEncoder"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="org.json.XML"/>
+    <fullyQualifiedTypeName name="org.json.JSONObject"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
 </qualifiedTypeNameHistroy>

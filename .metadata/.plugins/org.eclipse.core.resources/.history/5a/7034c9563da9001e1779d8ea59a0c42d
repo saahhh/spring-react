@@ -1,8 +1,0 @@
-HTTP (Hypertext Transfer Protocol)
-HTTP는 클라이언트와 서버간의 통신을 위한 프로토콜
-주로 웹에서 데이터를 주고 받을 때 사용
-HTTP는 메서드, 헤더, 바디로 이루어져 있음
-
-메서드 ( GET, POST)
-	GET : 주로 API나 DB에서 데이터를 가지고 오는데 사용
-	POST : 데이터베이스나 서버에 데이터를 제출하고 싶을 때 사용
