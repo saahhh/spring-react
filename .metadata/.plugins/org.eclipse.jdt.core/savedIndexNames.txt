@@ -1,5 +1,4 @@
 INDEX VERSION 1.134+C:\Users\user1\spring-react-security\.metadata\.plugins\org.eclipse.jdt.core
-2417039709.index
 3775087407.index
 45172575.index
 1761649497.index
