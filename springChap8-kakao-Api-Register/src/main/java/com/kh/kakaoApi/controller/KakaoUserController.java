@@ -27,9 +27,9 @@ public class KakaoUserController {
     @GetMapping("/callback")
     public String callback(HttpServletRequest request,
                            @RequestParam(required = false) String name,
-                           @RequestParam(required = false) String birthdate, Model model,
-                           HttpSession session
-    											) throws Exception {
+                           @RequestParam(required = false) String birthdate,
+                           Model model,
+                           HttpSession session) throws Exception {
 
         KakaoDTO kakaoInfo = kakaoService.getKakaoInfo(request.getParameter("code"), name, birthdate);
         //카카오톡에서 인증한 이메일을 가지고 오는 것이지 DB에서 존재하는 email을 가지고 오는게 아님
